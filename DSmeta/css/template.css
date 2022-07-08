@@ -62,3 +62,51 @@ header{
   background: #283142;
   border-radius: 10px;
 }
+
+.dsmeta-sales-title{
+  color: #676FFF;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Inputs */
+.dsmeta-form-control-container{
+  max-width: 300px;
+  margin: 16px 0;
+}
+
+.dsmeta-form-control{
+  height: 46px;
+  width: 100%;
+  padding: 12px 21px;
+
+  font-size: 18px;
+  color: #9aaabe;
+  background-color: #1b2531;
+  border: 1px solid #384459;
+  border-radius: 5px;
+
+}
+
+.dsmeta-sales-table{
+  width: 100%;
+  border-spacing: 0; /* Espaço entre as tabelas*/
+}
+
+.dsmeta-sales-table thead{
+  height: 55px;
+  font-size: 16px;
+  color: #e9e9e9;
+  font-weight: 700;
+}
+
+.dsmeta-sales-table tbody{
+  font-size: 14px;
+  font-weight: 400;
+  color: #fff;
+}
+
+.dsmeta-sales-table tbody tr {
+  height: 74px;
+
+}
