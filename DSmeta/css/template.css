@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500&display=swap');
+*{
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  background: #000;
+  color: #fff;
+}
+
+a, a:hover, a:visited{
+  color: unset; /* cores padrão */
+  text-decoration: none;
+}
+/*     ----------------------------------------------------------     */
+header{
+  padding: 120px 0;
+  background: linear-gradient(180deg, #102347 0%, #181818 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dsmeta-logo-container{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+
+.dsmeta-logo-container img {
+  width: 100%;
+  max-width: 400px;
+}
+
+.dsmeta-logo-container h1{
+  font-size: 26px;
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+.dsmeta-logo-container ṕ{
+  font-size: 14px;
+  font-weight: 300;
+}
+
+/* dsmeta-card */
+#dsmeta-sales{
+  padding: 40px 10px;
+}
+
+.dsmeta-container{
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.dsmeta-card{
+  background: #283142;
+  border-radius: 10px;
+}
