@@ -1,0 +1,10 @@
+:root{
+  --brand-colors-cor: #f67acb;
+  --gray-colors-50: #e6ebf2;
+  --gray-colors-100: #050110;
+
+  --gray-colors-300: #393c40;
+  --gray-colors-400: #5c6066;
+  --white-colors-text: rgba(255,255,255, 0.4);
+  --white: #fff;
+}

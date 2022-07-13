@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  border: none;
+  list-style: none;
+  text-decoration: none;
+  font-size: 1.6rem;
+  font-family: 'JetBrains Mono','Poppins', sans-serif, monospace;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+html{
+  font-size: 62.5%;
+}
+
+button {
+  cursor: pointer;
+}
+
+.container{
+  width: 100%;
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 0px 15px;
+}
